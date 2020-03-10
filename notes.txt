@@ -1,0 +1,21 @@
+Website:
+https://www.youtube.com/watch?v=hQAHSlTtcmY
+view object destructuring to understand useState
+
+
+cd into folder lacking spaces and capital letters
+npx create-react-app
+
+Clean up:
+src file;
+All css files, app.test, serviceWorker, logo and setupTests
+
+Add Extension:
+ES7 React/Redux/GraphQL/React-Native Snippets
+    rfc Enter - creates function component starter code
+
+package to assign random id
+npm i uuid
+import uuidv4 from 'uuid/v4'
+
+
